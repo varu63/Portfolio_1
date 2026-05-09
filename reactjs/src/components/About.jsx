@@ -12,7 +12,7 @@ export default function About() {
             name: 'Languages',
             icon1: './assets/code-icon.png',
             icon2: './assets/code-icon-dark.png',
-            description: 'HTML, CSS, JavaScript React Js, Next Js',
+            description: 'HTML, CSS, JavaScript React Js, Next Js , Java',
         },
         {
             name: 'Education',
