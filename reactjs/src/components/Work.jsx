@@ -1,16 +1,16 @@
 export default function Work() {
     const work = [
         {
-            name: 'Frontend project',
+            name: 'Dentwise website',
             icon: './assets/work-1.png',
-            description: 'Web Design',
-            link: '',
+            description: 'AI powered dental care website',
+            link: 'https://dentwise-kh91.onrender.com',
         },
         {
-            name: 'Geo based app',
+            name: 'Talentiq platform',
             icon: './assets/work-2.png',
-            description: 'mobile app',
-            link: '',
+            description: 'Remote interview platform',
+            link: 'https://talentiq-ay8n.onrender.com/',
         },
         {
             name: 'Photography site',
